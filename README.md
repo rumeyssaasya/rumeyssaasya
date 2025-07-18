@@ -1,7 +1,5 @@
 # Merhaba!
-# 💫 Hakkımda:
-Bilgisayar Mühendisliği son sınıf öğrencisiyim.<br><br>Java (Spring Boot) ve React ile full-stack web uygulamaları geliştiriyorum.<br><br>Masaüstü uygulamalar ve küçük mobil oyunlar geliştirerek yazılım becerilerimi farklı alanlarda test ediyorum.<br><br>Python ile GUI (Tkinter) ve basit oyun mekaniği oluşturma deneyimine sahibim.<br><br>API tasarımı, kimlik doğrulama (JWT) ve CRUD sistemlerinde yetkinim.<br><br>Kodun sadece çalışmasını değil, okunabilir ve sürdürülebilir olmasını önceliklendiriyorum.<br><br>Gerçek problemleri çözen, belgelenmiş ve açık kaynaklı projeler üretmeye odaklıyım.<br><br>Öğrenmeye açık, üretken ve takım çalışmasına uygun bir geliştiriciyim.
-
+Bilgisayar Mühendisliği son sınıf öğrencisiyim.<br><br>Java (Spring Boot) ve React ile full-stack web uygulamaları geliştiriyorum.<br><br>Masaüstü uygulamalar ve küçük mobil oyunlar geliştirerek yazılım becerilerimi farklı alanlarda test ediyorum.<br><br>Python ile GUI (Tkinter) ve basit oyun mekaniği oluşturma deneyimine sahibim.<br><br>API tasarımı, kimlik doğrulama (JWT) ve CRUD sistemlerinde yetkinim.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rümeysa ACİOĞLU) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acioglurumeysa@gmail.com) 
